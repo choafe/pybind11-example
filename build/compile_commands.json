@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/crynh/Documents/Robomaster/computervision/pybind11-example/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -isystem C:/Users/crynh/Documents/Robomaster/computervision/pybind11-example/extern/pybind11/include -isystem C:/msys64/mingw64/include/python3.10 -g -o CMakeFiles\\example.dir\\src\\main.cpp.obj -c C:\\Users\\crynh\\Documents\\Robomaster\\computervision\\pybind11-example\\src\\main.cpp",
+  "file": "C:\\Users\\crynh\\Documents\\Robomaster\\computervision\\pybind11-example\\src\\main.cpp",
+  "output": "CMakeFiles\\example.dir\\src\\main.cpp.obj"
+}
+]

@@ -1,0 +1,12 @@
+# ninja log v5
+1	369	7063214721120891	CMakeFiles/example.dir/main.cpp.obj	37ad9a01872f08e0
+4859	6578	7063215861003534	example.exe	b3bca0d65bb82c28
+2	4853	7063215844331677	CMakeFiles/example.dir/src/main.cpp.obj	4186ce6816f8bc2c
+5	5005	7063216407090596	CMakeFiles/example.dir/src/main.cpp.obj	4186ce6816f8bc2c
+5006	6590	7063216422958974	example.exe	b3bca0d65bb82c28
+7	94	7063218670678659	CMakeFiles/example.dir/src/main.cpp.obj	4186ce6816f8bc2c
+3	74	7063218766397547	CMakeFiles/example.dir/src/main.cpp.obj	4186ce6816f8bc2c
+2	62	7063218890991069	CMakeFiles/example.dir/src/main.cpp.obj	4186ce6816f8bc2c
+1	65	7063218918061341	CMakeFiles/example.dir/src/main.cpp.obj	4186ce6816f8bc2c
+2	65	7063218995534155	CMakeFiles/example.dir/src/main.cpp.obj	4186ce6816f8bc2c
+2	65	7063219496586837	CMakeFiles/example.dir/src/main.cpp.obj	4186ce6816f8bc2c
